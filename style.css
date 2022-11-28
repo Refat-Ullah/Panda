@@ -18,3 +18,28 @@
     background-color: #fceae8;
     border-radius: 10px;
 }
+.categories{
+    margin-top: 100px;
+}
+.container{
+    margin-bottom: 100px;
+}
+.cat1,.cat2,.cat3{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.cat1{
+    background-color: orange;
+}
+.cat2{
+    background-color: orchid;
+}
+.cat3{
+    background-color: rgb(67, 67, 201);
+}
+.categories h1{
+    color: white;
+}
+.margin{
+margin-bottom: 50px;
+}
