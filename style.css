@@ -69,3 +69,13 @@ margin-bottom: 50px;
     
 }
 /* Card part end */
+.input-group{
+    width: 500px;
+    
+}
+.contact{
+    padding: 150px;
+}
+.contact h3 ,p{
+text-align: center;
+}
