@@ -43,3 +43,29 @@
 .margin{
 margin-bottom: 50px;
 }
+/* Card part Css */
+.btn{
+    margin-left: 26%;
+    padding: 8px 35px;
+}
+.doller{
+    margin-left: 40%;
+   
+}
+.card-title{
+    text-align: center;
+}
+.card-text{
+    text-align: center;
+}
+.card{
+    padding: 20px 30px;
+}
+.margin2 p{
+    color: orange;
+}
+.margin2{
+    margin-bottom: 50px;
+    
+}
+/* Card part end */
